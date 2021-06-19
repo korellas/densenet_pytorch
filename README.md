@@ -1,1 +1,1 @@
-DenseNet 구현 테스트
+DenseNet 구현 연습
